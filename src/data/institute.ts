@@ -491,5 +491,6 @@ export const navLinks = [
   { href: "/admissions", label: "Admissions" },
   { href: "/results", label: "Results" },
   { href: "/activities", label: "Activities" },
+  { href: "/gallery", label: "Gallery" },
   { href: "/contact", label: "Contact" },
 ];
