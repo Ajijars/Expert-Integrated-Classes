@@ -28,7 +28,7 @@ export const leadership = {
   director: {
     name: "Prof. Ishwar Hon",
     title: "Co-Founder & Director — Mathematics",
-    photo: "/images/logo.png",
+    photo: "/images/prof-ishwar-hon.jpg",
     qualification: "M.Sc. Math, B.Ed",
     message:
       "At Expert Integrated Classes, we believe in transforming every student's potential into achievement. Our synchronized hybrid coaching methodology merges rigorous classroom studies with entrance-exam curricula to maximize structured time management. We don't just teach — we mentor, motivate, and build confidence. Our motto 'Better Than Best' drives us to deliver excellence every single day.",
@@ -36,7 +36,7 @@ export const leadership = {
   coFounder: {
     name: "Prof. Yogesh Hon",
     title: "Co-Founder & Biology Faculty",
-    photo: "/images/logo.png",
+    photo: "/images/prof-yogesh-hon.jpg",
     qualification: "M.Sc. Zoology, B.Ed",
     message:
       "With a deep passion for Biology and years of dedicated teaching, I am committed to making every concept crystal clear for our students. From NEET preparation to Board exams, our Biology coaching combines diagram-based learning, NCERT mastery, and rigorous MCQ practice. At EIC, we nurture future doctors and scientists with dedication and care.",
