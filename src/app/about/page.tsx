@@ -39,7 +39,7 @@ export default function AboutPage() {
               <p className="mt-4 leading-relaxed text-stone-700">
                 Our strict small-batch policy ensures every student receives individualized attention. Combined with
                 our EIC Mobile App for digital learning and performance tracking, we deliver a complete 360° educational
-                Our dedication to each student's success is a testament to our commitment.
+                Our dedication to each student&apos;s success is a testament to our commitment.
               </p>
             </div>
             <div>
