@@ -57,7 +57,7 @@ export default function HomePage() {
               alt="EIC Logo"
               width={90}
               height={90}
-              className="h-[90px] w-[90px] rounded-2xl bg-white/10 object-contain p-1 shadow-lg backdrop-blur-sm"
+              className="h-[90px] w-[90px] object-contain"
               priority
             />
           </div>
